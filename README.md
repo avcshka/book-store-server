@@ -54,5 +54,5 @@ Role-based access:
 
 ## 🧩 ER Diagram
 
-<img width="1211" height="1041" alt="pet-project-er-diagram" src="https://github.com/user-attachments/assets/01ada62e-32fe-4192-bce5-ef2ab5e70617" />
+<img width="1181" height="1001" alt="pet-project-er-diagram" src="https://github.com/user-attachments/assets/94b30d7b-8862-4b7d-9acd-480ee480b309" />
 
